@@ -1,0 +1,25 @@
+.title {
+	-fx-font-family: 'Oswald', sans-serif;
+	-fx-font-size: 7.0em;
+	-fx-font-style: italic;
+	-fx-fill: yellow;
+}
+.emojiSelectorPane {
+	-fx-padding: 10.0; 
+    -fx-border-style: solid inside;
+    -fx-border-width: 2.0;
+    -fx-border-insets: 5.0; 
+    -fx-border-radius: 5.0; 
+    -fx-border-color: blue;
+    -fx-fill: yellow;
+	
+}
+.start {
+	-fx-font-size: 1.5em;
+	-fx-font-style: italic;
+	-fx-fill: yellow;
+	
+}
+.message {
+	-fx-font-size: 1.3em;
+}
